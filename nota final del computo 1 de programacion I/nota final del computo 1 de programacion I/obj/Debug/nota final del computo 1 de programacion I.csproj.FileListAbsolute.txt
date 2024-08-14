@@ -1,0 +1,7 @@
+C:\Users\emila\Documents\Progra I\nota final del computo 1 de programacion I\nota final del computo 1 de programacion I\bin\Debug\nota final del computo 1 de programacion I.exe.config
+C:\Users\emila\Documents\Progra I\nota final del computo 1 de programacion I\nota final del computo 1 de programacion I\bin\Debug\nota final del computo 1 de programacion I.exe
+C:\Users\emila\Documents\Progra I\nota final del computo 1 de programacion I\nota final del computo 1 de programacion I\bin\Debug\nota final del computo 1 de programacion I.pdb
+C:\Users\emila\Documents\Progra I\nota final del computo 1 de programacion I\nota final del computo 1 de programacion I\obj\Debug\nota final del computo 1 de programacion I.csproj.AssemblyReference.cache
+C:\Users\emila\Documents\Progra I\nota final del computo 1 de programacion I\nota final del computo 1 de programacion I\obj\Debug\nota final del computo 1 de programacion I.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\Progra I\nota final del computo 1 de programacion I\nota final del computo 1 de programacion I\obj\Debug\nota final del computo 1 de programacion I.exe
+C:\Users\emila\Documents\Progra I\nota final del computo 1 de programacion I\nota final del computo 1 de programacion I\obj\Debug\nota final del computo 1 de programacion I.pdb
