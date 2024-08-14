@@ -1,0 +1,7 @@
+C:\Users\emila\Documents\Progra I\Tipos de datos en C#\Tipos de datos en C#\bin\Debug\Tipos de datos en C#.exe.config
+C:\Users\emila\Documents\Progra I\Tipos de datos en C#\Tipos de datos en C#\bin\Debug\Tipos de datos en C#.exe
+C:\Users\emila\Documents\Progra I\Tipos de datos en C#\Tipos de datos en C#\bin\Debug\Tipos de datos en C#.pdb
+C:\Users\emila\Documents\Progra I\Tipos de datos en C#\Tipos de datos en C#\obj\Debug\Tipos de datos en C#.csproj.AssemblyReference.cache
+C:\Users\emila\Documents\Progra I\Tipos de datos en C#\Tipos de datos en C#\obj\Debug\Tipos de datos en C#.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\Progra I\Tipos de datos en C#\Tipos de datos en C#\obj\Debug\Tipos de datos en C#.exe
+C:\Users\emila\Documents\Progra I\Tipos de datos en C#\Tipos de datos en C#\obj\Debug\Tipos de datos en C#.pdb
