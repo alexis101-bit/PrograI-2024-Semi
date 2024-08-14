@@ -1,0 +1,7 @@
+C:\Users\emila\Documents\Progra I\prioridad de los operadores aritmeticos\prioridad de los operadores aritmeticos\bin\Debug\prioridad de los operadores aritmeticos.exe.config
+C:\Users\emila\Documents\Progra I\prioridad de los operadores aritmeticos\prioridad de los operadores aritmeticos\bin\Debug\prioridad de los operadores aritmeticos.exe
+C:\Users\emila\Documents\Progra I\prioridad de los operadores aritmeticos\prioridad de los operadores aritmeticos\bin\Debug\prioridad de los operadores aritmeticos.pdb
+C:\Users\emila\Documents\Progra I\prioridad de los operadores aritmeticos\prioridad de los operadores aritmeticos\obj\Debug\prioridad de los operadores aritmeticos.csproj.AssemblyReference.cache
+C:\Users\emila\Documents\Progra I\prioridad de los operadores aritmeticos\prioridad de los operadores aritmeticos\obj\Debug\prioridad de los operadores aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\Progra I\prioridad de los operadores aritmeticos\prioridad de los operadores aritmeticos\obj\Debug\prioridad de los operadores aritmeticos.exe
+C:\Users\emila\Documents\Progra I\prioridad de los operadores aritmeticos\prioridad de los operadores aritmeticos\obj\Debug\prioridad de los operadores aritmeticos.pdb
