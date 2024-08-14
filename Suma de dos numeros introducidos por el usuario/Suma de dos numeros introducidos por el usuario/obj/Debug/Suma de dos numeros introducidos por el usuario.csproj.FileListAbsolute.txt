@@ -1,0 +1,7 @@
+C:\Users\emila\Documents\Progra I\Suma de dos numeros introducidos por el usuario\Suma de dos numeros introducidos por el usuario\bin\Debug\Suma de dos numeros introducidos por el usuario.exe.config
+C:\Users\emila\Documents\Progra I\Suma de dos numeros introducidos por el usuario\Suma de dos numeros introducidos por el usuario\bin\Debug\Suma de dos numeros introducidos por el usuario.exe
+C:\Users\emila\Documents\Progra I\Suma de dos numeros introducidos por el usuario\Suma de dos numeros introducidos por el usuario\bin\Debug\Suma de dos numeros introducidos por el usuario.pdb
+C:\Users\emila\Documents\Progra I\Suma de dos numeros introducidos por el usuario\Suma de dos numeros introducidos por el usuario\obj\Debug\Suma de dos numeros introducidos por el usuario.csproj.AssemblyReference.cache
+C:\Users\emila\Documents\Progra I\Suma de dos numeros introducidos por el usuario\Suma de dos numeros introducidos por el usuario\obj\Debug\Suma de dos numeros introducidos por el usuario.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\Progra I\Suma de dos numeros introducidos por el usuario\Suma de dos numeros introducidos por el usuario\obj\Debug\Suma de dos numeros introducidos por el usuario.exe
+C:\Users\emila\Documents\Progra I\Suma de dos numeros introducidos por el usuario\Suma de dos numeros introducidos por el usuario\obj\Debug\Suma de dos numeros introducidos por el usuario.pdb
