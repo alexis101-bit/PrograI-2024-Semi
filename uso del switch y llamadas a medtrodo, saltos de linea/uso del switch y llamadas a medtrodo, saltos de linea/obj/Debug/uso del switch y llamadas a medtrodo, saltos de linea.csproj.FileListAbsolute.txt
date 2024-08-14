@@ -1,0 +1,2 @@
+C:\Users\emila\Documents\Progra I\uso del switch y llamadas a medtrodo, saltos de linea\uso del switch y llamadas a medtrodo, saltos de linea\obj\Debug\uso del switch y llamadas a medtrodo, saltos de linea.csproj.AssemblyReference.cache
+C:\Users\emila\Documents\Progra I\uso del switch y llamadas a medtrodo, saltos de linea\uso del switch y llamadas a medtrodo, saltos de linea\obj\Debug\uso del switch y llamadas a medtrodo, saltos de linea.csproj.CoreCompileInputs.cache
