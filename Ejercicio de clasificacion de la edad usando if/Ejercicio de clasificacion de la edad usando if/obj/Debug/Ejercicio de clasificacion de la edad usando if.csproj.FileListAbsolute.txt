@@ -1,0 +1,2 @@
+C:\Users\emila\Documents\Progra I\Ejercicio de clasificacion de la edad usando if\Ejercicio de clasificacion de la edad usando if\obj\Debug\Ejercicio de clasificacion de la edad usando if.csproj.AssemblyReference.cache
+C:\Users\emila\Documents\Progra I\Ejercicio de clasificacion de la edad usando if\Ejercicio de clasificacion de la edad usando if\obj\Debug\Ejercicio de clasificacion de la edad usando if.csproj.CoreCompileInputs.cache
