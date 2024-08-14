@@ -1,2 +1,7 @@
 C:\Users\emila\Documents\Progra I\Nota final de computo 1 y 2 + tarea\Nota final de computo 1 y 2 + tarea\obj\Debug\Nota final de computo 1 y 2 + tarea.csproj.AssemblyReference.cache
 C:\Users\emila\Documents\Progra I\Nota final de computo 1 y 2 + tarea\Nota final de computo 1 y 2 + tarea\obj\Debug\Nota final de computo 1 y 2 + tarea.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\Progra I\Nota final de computo 1 y 2 + tarea\Nota final de computo 1 y 2 + tarea\bin\Debug\Nota final de computo 1 y 2 + tarea.exe.config
+C:\Users\emila\Documents\Progra I\Nota final de computo 1 y 2 + tarea\Nota final de computo 1 y 2 + tarea\bin\Debug\Nota final de computo 1 y 2 + tarea.exe
+C:\Users\emila\Documents\Progra I\Nota final de computo 1 y 2 + tarea\Nota final de computo 1 y 2 + tarea\bin\Debug\Nota final de computo 1 y 2 + tarea.pdb
+C:\Users\emila\Documents\Progra I\Nota final de computo 1 y 2 + tarea\Nota final de computo 1 y 2 + tarea\obj\Debug\Nota final de computo 1 y 2 + tarea.exe
+C:\Users\emila\Documents\Progra I\Nota final de computo 1 y 2 + tarea\Nota final de computo 1 y 2 + tarea\obj\Debug\Nota final de computo 1 y 2 + tarea.pdb

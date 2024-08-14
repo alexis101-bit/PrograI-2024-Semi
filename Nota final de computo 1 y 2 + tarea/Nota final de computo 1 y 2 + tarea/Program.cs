@@ -10,7 +10,23 @@ namespace Nota_final_de_computo_1_y_2___tarea
     {
         static void Main(string[] args)
         {
-              double c1 = lab1 * 30 / 100 + lab2 * 30 / 100 + parcial1 * 40 / 100;
+            //Prioridad de los operadores aritmeticos.
+            //ejercicio de obtener la nota final de la materia de Programacion I.
+            Console.Write("Lab1: ");
+            double lab1 = double.Parse(Console.ReadLine()); //8
+
+            Console.Write("Lab2: ");
+            double lab2 = double.Parse(Console.ReadLine()); //9
+
+            Console.Write("Parcial 1: ");
+            double parcial1 = double.Parse(Console.ReadLine()); //7
+
+            // 8*30%= 2.4
+            // 9*30%= 2.7
+            // 7*40%= 2.8
+            //C1    = 7.9
+
+            double c1 = lab1 * 30 / 100 + lab2 * 30 / 100 + parcial1 * 40 / 100;
             Console.WriteLine("La nota de C1 es: {0}", c1);
 
             Console.Write("Lab1: ");
@@ -28,6 +44,15 @@ namespace Nota_final_de_computo_1_y_2___tarea
             //TAREA: Obtener la nota final por computo y Nota Final de la matera de Programacion I.
 
 
+            //ejercicio obtener el promedio de una serie de numeros
+            int[] serie = new int[] { 5, 4, 6, 8, 9 }; //32
+            int suma = 0;
+            foreach (int num in serie)
+            {
+                suma += num;
+            }
+            decimal prom = suma / serie.Length;
+            Console.WriteLine("La suma es: {0}, el promedio {1}", suma, prom);
             //Pausa.
             Console.ReadLine();
         }
