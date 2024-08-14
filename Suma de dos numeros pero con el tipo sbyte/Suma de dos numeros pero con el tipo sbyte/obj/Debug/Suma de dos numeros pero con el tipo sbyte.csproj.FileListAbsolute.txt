@@ -1,0 +1,7 @@
+C:\Users\emila\Documents\Progra I\Suma de dos numeros pero con el tipo sbyte\Suma de dos numeros pero con el tipo sbyte\obj\Debug\Suma de dos numeros pero con el tipo sbyte.csproj.AssemblyReference.cache
+C:\Users\emila\Documents\Progra I\Suma de dos numeros pero con el tipo sbyte\Suma de dos numeros pero con el tipo sbyte\obj\Debug\Suma de dos numeros pero con el tipo sbyte.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\Progra I\Suma de dos numeros pero con el tipo sbyte\Suma de dos numeros pero con el tipo sbyte\bin\Debug\Suma de dos numeros pero con el tipo sbyte.exe.config
+C:\Users\emila\Documents\Progra I\Suma de dos numeros pero con el tipo sbyte\Suma de dos numeros pero con el tipo sbyte\bin\Debug\Suma de dos numeros pero con el tipo sbyte.exe
+C:\Users\emila\Documents\Progra I\Suma de dos numeros pero con el tipo sbyte\Suma de dos numeros pero con el tipo sbyte\bin\Debug\Suma de dos numeros pero con el tipo sbyte.pdb
+C:\Users\emila\Documents\Progra I\Suma de dos numeros pero con el tipo sbyte\Suma de dos numeros pero con el tipo sbyte\obj\Debug\Suma de dos numeros pero con el tipo sbyte.exe
+C:\Users\emila\Documents\Progra I\Suma de dos numeros pero con el tipo sbyte\Suma de dos numeros pero con el tipo sbyte\obj\Debug\Suma de dos numeros pero con el tipo sbyte.pdb
