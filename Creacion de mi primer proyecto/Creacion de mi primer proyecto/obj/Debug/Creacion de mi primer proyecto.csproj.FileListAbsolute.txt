@@ -1,0 +1,7 @@
+C:\Users\emila\Documents\Progra I\Creacion de mi primer proyecto\Creacion de mi primer proyecto\bin\Debug\Creacion de mi primer proyecto.exe.config
+C:\Users\emila\Documents\Progra I\Creacion de mi primer proyecto\Creacion de mi primer proyecto\bin\Debug\Creacion de mi primer proyecto.exe
+C:\Users\emila\Documents\Progra I\Creacion de mi primer proyecto\Creacion de mi primer proyecto\bin\Debug\Creacion de mi primer proyecto.pdb
+C:\Users\emila\Documents\Progra I\Creacion de mi primer proyecto\Creacion de mi primer proyecto\obj\Debug\Creacion de mi primer proyecto.csproj.AssemblyReference.cache
+C:\Users\emila\Documents\Progra I\Creacion de mi primer proyecto\Creacion de mi primer proyecto\obj\Debug\Creacion de mi primer proyecto.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\Progra I\Creacion de mi primer proyecto\Creacion de mi primer proyecto\obj\Debug\Creacion de mi primer proyecto.exe
+C:\Users\emila\Documents\Progra I\Creacion de mi primer proyecto\Creacion de mi primer proyecto\obj\Debug\Creacion de mi primer proyecto.pdb
